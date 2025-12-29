@@ -11,6 +11,6 @@ Transitioning from a career in Manufacturing Engineering to Data Analysis, I'm a
 ### Projects🚀
 * **[Bellabeat Case Study](https://github.com/kjenn77/bellabeat-case-study):** analyse Fitbit user health data to identify trends.
 
-### Let's Connecy!📫
+### Let's Connect!📫
 * **LinkedIn:** [Link](https://www.linkedin.com/in/jenn-kang-448420175/)
 * **Email:** jennkang7@gmail.com
